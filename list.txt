@@ -5,3 +5,6 @@ kanye
 stefan molyneux
 dave chappelle
 alex jones
+douglas crockford
+johnny depp
+brendan eich
