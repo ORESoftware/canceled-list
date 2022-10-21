@@ -1,3 +1,5 @@
+the unpersoned
+
 tommy sotomayor
 milo yiannopolis
 gavin mcinnes
@@ -9,5 +11,8 @@ douglas crockford
 johnny depp
 brendan eich
 jp sears / awakenwithjp
+brandon straka
+
+
 
 
